@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-sass-project/static/css/main.c7471ae6.css",
+    "main.js": "/react-sass-project/static/js/main.7a0c53f2.js",
+    "static/js/787.d36441ca.chunk.js": "/react-sass-project/static/js/787.d36441ca.chunk.js",
+    "index.html": "/react-sass-project/index.html",
+    "main.c7471ae6.css.map": "/react-sass-project/static/css/main.c7471ae6.css.map",
+    "main.7a0c53f2.js.map": "/react-sass-project/static/js/main.7a0c53f2.js.map",
+    "787.d36441ca.chunk.js.map": "/react-sass-project/static/js/787.d36441ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7471ae6.css",
+    "static/js/main.7a0c53f2.js"
+  ]
+}
