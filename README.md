@@ -1,4 +1,4 @@
-## https://betulzemheri.github.io/react-sass-project/
+## react-sass-project-betul.netlify.app
 
 # Getting Started with Create React App
 
